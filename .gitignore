@@ -1,0 +1,10 @@
+
+\.idea/
+
+*.iml
+
+*.class
+
+out/production/Assignment 8/META-INF/
+
+out/
